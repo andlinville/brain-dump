@@ -1,6 +1,6 @@
 // The MIT License (MIT)
 
-// thinker.js / Copyright (c) 2014 Andrew Linville
+// brain-dump / Copyright (c) 2014 Andrew Linville
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
