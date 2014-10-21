@@ -147,6 +147,9 @@
 
 			}
 
+			// clear text
+			$el.text('');
+
 			// call write_values with initial delay
 			setTimeout( function() {
 				write_values()
